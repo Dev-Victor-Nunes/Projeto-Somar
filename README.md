@@ -1,2 +1,4 @@
 # Projeto Somar
- Códigos Fonte Site Projeto somar
+
+Repositório destinado ao projeto Somar
+
